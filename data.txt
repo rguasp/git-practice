@@ -1,0 +1,3 @@
+Name: Rafael Guasp
+Age: 24
+Favorite Color: Red
